@@ -1,5 +1,5 @@
 # MSE_Cannabis_Data
-
+[
 README for the Dataset: Multiscale Entropy in the Prefrontal Cortex
 
 Dataset Title
@@ -64,8 +64,8 @@ Researchers are encouraged to cite the original study when using this dataset.
 
 Repository Information
 
-The datasets generated and/or analyzed during the current study are available in the GitHub repository at [https://github.com/yourusername/survey-dataset](https://github.com/Tcgoalie29/MSE_Cannabis_Data/tree/main).
+The datasets generated and/or analyzed during the current study are available in the GitHub repository at (https://github.com/Tcgoalie29/MSE_Cannabis_Data/tree/main).
 
 References
 
-For detailed methodology, analysis, and findings, please refer to the manuscript titled "Reduced Multiscale Entropy in the Prefrontal Cortex: Insights from Cannabis Consumption Patterns and Cortical Comparisons" by William T. Creel, Colleen A. Brenner, and Richard E. Hartman.
+For detailed methodology, analysis, and findings, please refer to the manuscript titled "Reduced Multiscale Entropy in the Prefrontal Cortex: Insights from Cannabis Consumption Patterns and Cortical Comparisons" by William T. Creel, Colleen A. Brenner, and Richard E. Hartman.]
