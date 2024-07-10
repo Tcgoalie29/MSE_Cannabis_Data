@@ -64,7 +64,7 @@ Researchers are encouraged to cite the original study when using this dataset.
 
 Repository Information
 
-The datasets generated and/or analyzed during the current study are available in the GitHub repository at https://github.com/yourusername/survey-dataset.
+The datasets generated and/or analyzed during the current study are available in the GitHub repository at [https://github.com/yourusername/survey-dataset](https://github.com/Tcgoalie29/MSE_Cannabis_Data/tree/main).
 
 References
 
